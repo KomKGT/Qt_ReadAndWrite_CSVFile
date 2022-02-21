@@ -23,9 +23,9 @@
   3.2 Save File 💾
       * .LTN File
       * .CSV File</br>
-  3.3 Open File 📁
+  3.3* Open File 📁
       * .LTN File
       * .CSV File</br>
-3.4 New File 📝</br>
-3.5 Printer 🖨️
+  3.4* New File 📝</br>
+  3.5* Printer 🖨️
   
