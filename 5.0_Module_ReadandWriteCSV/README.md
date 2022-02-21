@@ -1,5 +1,5 @@
 # ได้ทำการแก้ไขสิ่งที่ยังไม่ได้แก้ในเวอร์ชันก่อนหน้าไปแล้ว
-## เริ่มต้น (Initial) Status Bar จะขึ้น untitled.LTN
+* เริ่มต้น (Initial) Status Bar จะขึ้น untitled.LTN
 ![image](https://user-images.githubusercontent.com/81642936/154917803-181da15f-80d1-4d0f-b4f8-df95ae8532ee.png)
 * กรณี Save File .LTN แล้ว Status Bar จะเปลี่ยนเป็นชื่อที่เรา save
 ![image](https://user-images.githubusercontent.com/81642936/154918033-a6cede73-350a-4014-85b0-81ec533b8ff3.png)
