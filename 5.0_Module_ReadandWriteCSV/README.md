@@ -22,10 +22,10 @@
   3.1 รับค่าจาก MODBUS RTU/TCP นำมาวาดกราฟ</br>
   3.2 Save File 💾
       * .LTN File
-      * .CSV File
+      * .CSV File</br>
   3.3 Open File 📁</br>
       * .LTN File
       * .CSV File</br>
-  3.4 New File 📝
+  3.4 New File 📝</br>
   3.5 Printer 🖨️
   
