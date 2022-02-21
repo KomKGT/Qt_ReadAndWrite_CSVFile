@@ -19,13 +19,13 @@
 1. New File 
 2. Export to .CSV เพื่อเปิดใน Excel
 3. ประกอบกับโปรแกรมใหญ่เพื่อทดสอบ</br>
-  3.1 รับค่าจาก MODBUS RTU/TCP นำมาวาดกราฟ</br>
-  3.2 Save File 💾
+  * รับค่าจาก MODBUS RTU/TCP นำมาวาดกราฟ</br>
+  * Save File 💾
       * .LTN File
       * .CSV File</br>
-  3.3* Open File 📁
+  * Open File 📁
       * .LTN File</br>
       * .CSV File</br>
-  3.4 New File 📝</br>
-  3.5 Printer 🖨️
+  * New File 📝</br>
+  * Printer 🖨️
   
