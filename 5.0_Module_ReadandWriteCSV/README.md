@@ -7,3 +7,9 @@
 ![image](https://user-images.githubusercontent.com/81642936/154918218-d2719b6c-105b-4a95-a110-d3a3388e9653.png)
 ## กรณี Save File .LTN แล้วแก้ค่าใน Line edit จะขึ้น [*] ทันที
 ![image](https://user-images.githubusercontent.com/81642936/154918282-7a2b1f59-5c9d-4da2-b717-12817b6eaa5c.png)
+## การเปิด .LTN ไฟล์ ขึ้นมาจะต้องถูกเขียนด้วยโปรแกรมนี้เท่านั้นห้ามเขียนด้วย Notepad ได้ทำการจำลอง Save ค่าเพื่อวาดกราฟใน c++
+![image](https://user-images.githubusercontent.com/81642936/154918882-b1e494c8-082f-48e1-81c6-79d85cae3f4a.png)
+![image](https://user-images.githubusercontent.com/81642936/154919059-1c2d459d-ab53-45ba-a6ff-7c04775d2bc1.png)
+![image](https://user-images.githubusercontent.com/81642936/154919135-e014a945-b59f-4b0d-9afe-795d3b5633fd.png)
+โดยภายในไฟล์มีการวางข้อมูลแบบนี้</br>
+![image](https://user-images.githubusercontent.com/81642936/154919291-d9069c55-bf7d-4efd-b7b0-43b212cf71d1.png)
