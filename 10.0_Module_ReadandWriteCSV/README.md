@@ -1,4 +1,4 @@
-# สิ่งที่เพิ่ม
+# สิ่งที่เพิ่ม 2 อย่าง
 1. Printer
 ![image](https://user-images.githubusercontent.com/81642936/155928663-ff2bf60d-f51b-4656-b4d4-1001fcacd919.png)
 2. เว้นขอบใน Printer Preview
